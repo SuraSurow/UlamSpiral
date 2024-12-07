@@ -1,0 +1,7 @@
+# ninja log v6
+0	103	1733562343888689098	CMakeFiles/ProgramowanieRownolegle6.dir/main.cpp.o.ddi	be6be7f9d89d52e5
+103	107	1733562343995356805	CMakeFiles/ProgramowanieRownolegle6.dir/CXX.dd	a34b91501c7c9c40
+103	107	1733562343995356805	/home/bolo/CLionProjects/ProgramowanieRownolegle6/cmake-build-debug/CMakeFiles/ProgramowanieRownolegle6.dir/CXXModules.json	a34b91501c7c9c40
+103	107	1733562343995356805	CMakeFiles/ProgramowanieRownolegle6.dir/main.cpp.o.modmap	a34b91501c7c9c40
+107	585	1733562343995356805	CMakeFiles/ProgramowanieRownolegle6.dir/main.cpp.o	304735d4c7d02212
+586	647	1733562344475361500	ProgramowanieRownolegle6	abf77b3c603e575
